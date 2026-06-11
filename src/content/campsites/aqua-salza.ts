@@ -11,8 +11,7 @@ const aquaSalza: CampsiteConfig = {
   brandKind: "Wohnmobil-Stellplatz",
   regionLong: "Tennengau · Salzburger Land · Österreich",
 
-  theme: "alpin",
-  heroVariant: "left",
+  heroVariant: "center",
 
   claim: "Stellplatz mit Bad, Sauna & Bergblick",
   claimEmphasis: "Bad, Sauna & Bergblick",
@@ -183,7 +182,7 @@ const aquaSalza: CampsiteConfig = {
     telHref: "tel:+436244200400",
     mail: "info@aqua-salza.at",
     adresse: "Möslstraße 199 · 5440 Golling an der Salzach · Salzburg",
-    coords: { lat: 47.59582, lng: 13.17167 },
+    coords: { lat: 47.596031, lng: 13.174541 },
   },
 
   languages: ["DE"],
