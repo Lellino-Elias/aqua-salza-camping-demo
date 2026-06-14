@@ -95,7 +95,7 @@ const aquaSalza: CampsiteConfig = {
       {
         title: "Massagen & Wellness",
         text: "Von der klassischen Massage bis zum Verwöhnpaket — die Anwendungen sind auch ohne Eintritt in die Saunawelt buchbar.",
-        image: { src: `${IMG}/amenity-1eb63598c6.webp`, alt: "Wellnessbereich des Aqua Salza" },
+        image: { src: `${IMG}/amenity-c6e3ee0acf.webp`, alt: "Wellness & Beauty Bereich im Aqua Salza" },
       },
       {
         title: "Frühstück & warme Küche",
