@@ -33,7 +33,7 @@ const aquaSalza: CampsiteConfig = {
     },
     {
       title: "Therme & Sauna nebenan",
-      text: "Freizeitbad mit 25-Meter-Bahnen, sechs Saunen und Wellnessoase liegen direkt am Platz — als Stellplatzgast mit 10 % auf alle Eintritte.",
+      text: "Freizeitbad mit 25-Meter-Bahnen, sechs Saunen und Wellnessoase direkt am Platz — als Gast mit 10 % Rabatt.",
       image: { src: `${IMG}/amenity-acf6a5cbdb.webp`, alt: "Freizeitbad und Sauna Aqua Salza in Golling, Ansicht vom Feld" },
     },
     {
@@ -79,7 +79,7 @@ const aquaSalza: CampsiteConfig = {
     features: [
       {
         title: "Asphaltierte Einzelplätze",
-        text: "15 ebene Plätze à 9 × 5 m mit Frischwasser- und Stromversorgung, dazu eine Holiday-Clean-Station — Anreise rund um die Uhr per Parkautomat.",
+        text: "15 ebene Plätze à 9 × 5 m mit Frischwasser und Strom, Holiday-Clean-Station — Anreise rund um die Uhr per Parkautomat.",
         image: { src: `${IMG}/gallery-24ad452114.webp`, alt: "Wohnmobil auf einem Einzelstellplatz des Aqua Salza" },
       },
       {
